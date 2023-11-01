@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Lithiya12
-- 👀 I’m interested in SQL 
-- 🌱 I’m currently learning Git hub
-- 💞️ I’m looking to collaborate on new repo
-- 📫 How to reach me lithiya.prem@gmail.com
+I am a dedicated SQL Programmer with a strong foundation in Oracle and Microsoft SQL and Microsoft Office applications and holding a Bachelor's degree in Commerce from Madras University. Over the past two years, I have played a pivotal role in optimizing and launching innovative software solutions for Tata Consultancy Service and Ramco Systems. I am passionate about leveraging my technical skills to drive excellence in software development.
+
 
 <!---
 Lithiya12/Lithiya12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
